@@ -4,7 +4,7 @@
 - 👀 I’m interested in a permanent role with a company which needs my skills in Data Analytics.
 - 🌱 I’m currently working on new Data Analysis and Machine Learning projects.
 - 💞️ I’m looking to collaborate with other experts in the field of data as we continue to optimize processes and explore new heights.
-- 📫 Reach me here: eberedavid326@gmail.com
+- 📫 Reach me here: chidieberedavid326@gmail.com
 
 <!---
 iameberedavid/iameberedavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
